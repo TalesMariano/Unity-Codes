@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//		https://docs.unity3d.com/ScriptReference/RequireComponent.html
+//		[Require Component](https://docs.unity3d.com/ScriptReference/RequireComponent.html)
 // PlayerScript requires the GameObject to have a Rigidbody component
 [RequireComponent (typeof (Rigidbody))]
 
