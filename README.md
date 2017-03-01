@@ -29,3 +29,7 @@ void PlayAudio( AudioSource aSource, AudioClip[] clipList, float pichChange){
 		int rand = Random.Range (0, aShotList.Length);
 		aSource.PlayOneShot ( aShotList[rand]);
 }
+
+## Links interessantes
+
+https://docs.unity3d.com/ScriptReference/MonoBehaviour.InvokeRepeating.html
