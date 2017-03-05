@@ -33,3 +33,4 @@ void PlayAudio( AudioSource aSource, AudioClip[] clipList, float pichChange){
 ## Links interessantes
 
 https://docs.unity3d.com/ScriptReference/MonoBehaviour.InvokeRepeating.html
+https://docs.unity3d.com/Manual/comp-UIAutoLayout.html
