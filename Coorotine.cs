@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class RestartScene : MonoBehaviour
 {
-
+	//https://unity3d.com/pt/learn/tutorials/topics/scripting/coroutines
 
 	public void HighlightColor (){
 		StopCoroutine("IChangeColor");
