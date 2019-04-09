@@ -2,6 +2,9 @@
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 // Colocar aqui minha assinatura
 
+//Referencias Codigos
+//https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
+
 // Utilizar apenas namespace que eu estou realmente usando
 using UnityEngine;
 using System;
