@@ -11,7 +11,7 @@ public class RestartScene : MonoBehaviour
     {
         for (float i = 0; i < fadeTime; i+= Time.deltaTime )
         {
-
+	    float f = Mathf.Lerp(x, y, i / fadeTime);
 
             yield return null;
         }
