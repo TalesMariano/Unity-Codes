@@ -7,6 +7,17 @@ public class RestartScene : MonoBehaviour
 {
 	//https://unity3d.com/pt/learn/tutorials/topics/scripting/coroutines
 
+    IEnumerator iFade()
+    {
+        for (float i = 0; i < fadeTime; i+= Time.deltaTime )
+        {
+
+
+            yield return null;
+        }
+    }
+
+
 	public void HighlightColor (){
 		StopCoroutine("IChangeColor");
 		StartCoroutine(IChangeColor(0.3f, startColor, changeColor));
