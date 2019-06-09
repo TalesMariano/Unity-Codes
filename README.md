@@ -2,6 +2,7 @@
 
 ## To Do
 
+- !! SINGLETON
 - Get Set
 - Lists
 - 2D colliders
