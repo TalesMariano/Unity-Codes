@@ -1,3 +1,5 @@
+//https://wiki.unity3d.com/index.php/Singleton
+
 using UnityEngine;
 
 public class Singleton_Simple : MonoBehaviour
