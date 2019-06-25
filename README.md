@@ -3,6 +3,9 @@
 ## To Do
 
 - !! SINGLETON !!
+- Namespaces
+ - https://www.programiz.com/csharp-programming/namespaces
+ - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
 - Get Set
 - Lists
 - 2D colliders
