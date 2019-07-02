@@ -1,4 +1,24 @@
-    /// <summary>
+    
+[Flags]
+enum Days
+{
+    None = 0x0, //--> 0000
+    Sunday = 0x1,   //--> 0001
+    Monday = 0x2,   //--> 0010
+    Tuesday = 0x4,  //--> 0100
+    Wednesday = 0x8,//--> 1000
+    Thursday = 0x10,    //--> 0001 0000
+    Friday = 0x20,      //--> 0010 0000
+    Saturday = 0x40     //--> 0100 0000
+}
+class MyClass
+{
+    Days meetingDays = Days.Tuesday | Days.Thursday;
+}
+
+
+
+/// <summary>
     /// Flags representing trackable types in XR.
     /// A "trackable" is feature in the physical environment that a device is able to track, such as a surface.
     /// Often used in conjunction with <see cref="XRRaycastHit"/>.
