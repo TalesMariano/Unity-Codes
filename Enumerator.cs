@@ -2,11 +2,11 @@
 [Flags]
 enum Days
 {
-    None = 0x0, //--> 0000
-    Sunday = 0x1,   //--> 0001
-    Monday = 0x2,   //--> 0010
-    Tuesday = 0x4,  //--> 0100
-    Wednesday = 0x8,//--> 1000
+    None = 0x0, //--> 0000          == 0
+    Sunday = 0x1,   //--> 0001      == 1 << 0   == 1
+    Monday = 0x2,   //--> 0010      == 1 << 1   == 2
+    Tuesday = 0x4,  //--> 0100      == 1 << 2   == 4
+    Wednesday = 0x8,//--> 1000      == 1 << 3   == 8
     Thursday = 0x10,    //--> 0001 0000
     Friday = 0x20,      //--> 0010 0000
     Saturday = 0x40     //--> 0100 0000
