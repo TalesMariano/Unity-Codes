@@ -32,3 +32,12 @@ class Employee
         }
     }
 }
+
+//Mini
+
+    public bool CreatingPoints
+    {
+        get { return creatingPoints; }
+        set { creatingPoints = value;}
+    }
+    public bool creatingPoints = true;
