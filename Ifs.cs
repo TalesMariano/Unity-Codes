@@ -47,5 +47,27 @@ public class Example
 
           buttonPrise.interactable = pword == senha;
       }
+      
+      
+      void DoStuff(){
+         /*
+         if(want2do){
+            if(reallyWant){
+               // Dostuff  
+               // stuff
+               // stuff
+            }
+         }*/
+         
+         if(!want2do)
+            return;
+         if(!reallyWant)
+            return;
+         
+         // Dostuff  
+         // stuff
+         // stuff
+         
+      }
    }
 }
