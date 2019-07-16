@@ -4,8 +4,8 @@
 
 - !! SINGLETON !!
 - Namespaces
- - https://www.programiz.com/csharp-programming/namespaces
- - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
+	 - https://www.programiz.com/csharp-programming/namespaces
+	 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
 - Get Set
 - Lists
 - 2D colliders
@@ -25,7 +25,7 @@
 
 ## Nice Links
 - Billborad
- - http://wiki.unity3d.com/index.php/CameraFacingBillboard
+	 - http://wiki.unity3d.com/index.php/CameraFacingBillboard
 
 
 ## functions - To Add
