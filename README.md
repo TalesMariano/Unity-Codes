@@ -23,6 +23,10 @@
 - Load Level
 - Loading Screen
 
+## Nice Links
+- Billborad
+ - http://wiki.unity3d.com/index.php/CameraFacingBillboard
+
 
 ## functions - To Add
 
