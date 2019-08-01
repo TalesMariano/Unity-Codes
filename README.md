@@ -7,6 +7,10 @@
  - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
  - https://github.com/mob-sakai/UIEffect
 
+## Git, Versions n Stuff
+ - keep a changelog - https://keepachangelog.com/en/1.0.0/
+ - Semantic Versioning 2.0.0 - https://semver.org/spec/v2.0.0.html
+
 
 ## To Do
 
