@@ -1,4 +1,4 @@
-  Videos
+  ## Videos
   
   * SCRIPTABLE OBJECTS in Unity - Brackeys - https://www.youtube.com/watch?v=aPXvoWVabPY
   * Unite Austin 2017 - Game Architecture with Scriptable Objects - https://www.youtube.com/watch?v=raQ3iHhE_Kk&t=237s
@@ -6,7 +6,7 @@
 
   
   ------
-  Links
+  ## Links
   
 https://docs.unity3d.com/ScriptReference/ScriptableObject.html
 
