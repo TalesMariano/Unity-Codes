@@ -12,3 +12,7 @@ Stencil
 
 // ver Depois
 //https://www.youtube.com/watch?v=AGJ_Pk28UnA
+
+
+### Blur
+- https://www.youtube.com/watch?v=YKTjVACAfqE
