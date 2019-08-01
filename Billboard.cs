@@ -1,7 +1,9 @@
 //	CameraFacing.cs 
 //	original by Neil Carter (NCarter)
 //	modified by Hayden Scott-Baron (Dock) - http://starfruitgames.com
-//  allows specified orientation axis
+    //  allows specified orientation axis
+
+// Some Link: http://wiki.unity3d.com/index.php/CameraFacingBillboard
 
 
 using UnityEngine;
