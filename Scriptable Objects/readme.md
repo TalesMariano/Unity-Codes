@@ -5,7 +5,6 @@
   * Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution - https://www.youtube.com/watch?v=6vmRwLYWNRo
 
   
-  ------
   ## Links
   
 https://docs.unity3d.com/ScriptReference/ScriptableObject.html
