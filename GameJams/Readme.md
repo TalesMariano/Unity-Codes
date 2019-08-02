@@ -11,7 +11,11 @@
 - http://opengameart.org/
 
 
-### - 7 Killer Tips for Making a Game in 48 Hours
+## - ???
+ - The Game Jam Survival Guide, 114 page paperback - https://www.amazon.com/Game-Jam-Survival-Guide/dp/1849692505/
+ - Game Jamming in Unity, 40 page e-book (free) - http://m.amazonappservices.com/game-jamming-ebook?cmp=US_2017-00_Inf_InfBlogs&ch=Inf&chlast=Inf&pub=ChK&publast=ChK&type=org&typelast=org
+
+## 7 Killer Tips for Making a Game in 48 Hours
 http://www.acagamic.com/work/events/7-killer-tips-for-making-a-game-in-48-hours/
 
 - **Never Fall in Love.** The second theorem of destruction says “as love and effort increase, the probability of self-destruction approaches 1”. Maintain a healthy distance to your game and do not be afraid to fail spectacularly.
