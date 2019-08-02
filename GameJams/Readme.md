@@ -1,6 +1,9 @@
 ## Links
 - https://medium.com/@sloppycombo/global-game-jam-tips-935e24003819
 - Art - https://wiki.unrealengine.com/Top_Tips_for_Game_Jams
+- https://gamedevelopment.tutsplus.com/articles/how-to-get-the-most-out-of-a-game-jam--gamedev-437
+- 10 WAYS TO PREP FOR A GAME JAM - https://www.radicaldog.com/blog/how-to-prepare-for-a-game-jam/
+- https://www.humanhead.com/game-jam-tips-struggle-success/
 
 ## Tools
 - http://www.procore3d.com/probuilder/
@@ -14,6 +17,7 @@
 ## - ???
  - The Game Jam Survival Guide, 114 page paperback - https://www.amazon.com/Game-Jam-Survival-Guide/dp/1849692505/
  - Game Jamming in Unity, 40 page e-book (free) - http://m.amazonappservices.com/game-jamming-ebook?cmp=US_2017-00_Inf_InfBlogs&ch=Inf&chlast=Inf&pub=ChK&publast=ChK&type=org&typelast=org
+ - #screenshotsaturday
 
 ## 7 Killer Tips for Making a Game in 48 Hours
 http://www.acagamic.com/work/events/7-killer-tips-for-making-a-game-in-48-hours/
