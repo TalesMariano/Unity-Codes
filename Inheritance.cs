@@ -14,7 +14,10 @@ public class Son : Father
     protected override void Start()
     {
         base.Start();
+    }
 
-        currentPos = GetComponentInParent<Area>().numArea;
+    protected override void Update()
+    {
+        base.Update();
     }
 }
