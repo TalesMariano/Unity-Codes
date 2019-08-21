@@ -10,3 +10,6 @@ https://docs.unity3d.com/Manual/testing-editortestsrunner.html
 
 https://docs.unity3d.com/Manual/PlaymodeTestFramework.html
 
+[How to Unit Test Unity Code]( https://www.youtube.com/watch?v=TyxDg70hc3g)
+
+Google:  unity game testing tips
