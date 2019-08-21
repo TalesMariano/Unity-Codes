@@ -1,3 +1,6 @@
+/// References:
+/// https://twitter.com/FreyaHolmer/status/1162536043964354560
+/// https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/enum
 
 
   public var variable;
