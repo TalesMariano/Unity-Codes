@@ -47,3 +47,23 @@ class Test : System.Object
 
 public Test testinho;
   
+
+
+///Enum
+
+//Set this outise class
+public enum Direction { Up, Right, Left, Down, None = -1 }
+
+public static class DirectionExtetions
+{
+    public static int Oposite(this Direction dir)
+    {
+        return ((int)dir + 2) % 4;
+    }
+
+    public static Direction OpositeEnum(this Direction dir)
+    {
+        return (Direction)(((int)dir + 2) % 4);
+    }
+
+}
