@@ -13,6 +13,9 @@ Stencil
 // ver Depois
 //https://www.youtube.com/watch?v=AGJ_Pk28UnA
 
+ - Draw On top 3d
+ https://answers.unity.com/questions/1000286/render-a-object-on-top-of-another.html
+
 
 ### Blur
 - https://www.youtube.com/watch?v=YKTjVACAfqE
