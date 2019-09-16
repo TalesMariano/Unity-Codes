@@ -10,7 +10,7 @@ public class MD5 : MonoBehaviour
 {
     public string timeHash;
     private void Start()
-    {z
+    {
         CalculateMD5Hash(timeHash);
     }
     public string CalculateMD5Hash(string stringToParse)
