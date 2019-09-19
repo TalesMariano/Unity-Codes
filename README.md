@@ -51,9 +51,11 @@
 
 ## Links interessantes
 
-https://docs.unity3d.com/ScriptReference/MonoBehaviour.InvokeRepeating.html
+- https://docs.unity3d.com/ScriptReference/MonoBehaviour.InvokeRepeating.html
 
-https://docs.unity3d.com/Manual/comp-UIAutoLayout.html
+- https://forum.unity.com/threads/confusion-about-how-to-create-a-custom-package.662818/
+
+- https://docs.unity3d.com/Manual/comp-UIAutoLayout.html
 
 ## Checar Depois
 
