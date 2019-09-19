@@ -16,5 +16,10 @@ public class TimerConvert : MonoBehaviour {
 
 		return (minutes + ":" + seconds);
 	}
+	
+	void OtherThing(){
+		DateTime dt = DateTime.Now;
+        	Debug.Log(dt.ToString("dd/MM/yyyy"));
+	}
 
 }
