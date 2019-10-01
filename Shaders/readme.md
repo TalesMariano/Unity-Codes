@@ -1,6 +1,12 @@
 Photoshop Blend Math - https://photoblogstop.com/photoshop/photoshop-blend-modes-explained
 
 ----------------
+### Standart Shader Render Queue
+https://forum.unity.com/threads/setting-the-render-queue-for-standard-shader.508767/
+Place StandardShaderGUI.cs into your Assets/Editor/
+
+
+
 Stencil
 
 
