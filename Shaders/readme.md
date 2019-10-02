@@ -13,5 +13,8 @@ Place StandardShaderGUI.cs into your Assets/Editor/
  https://answers.unity.com/questions/1000286/render-a-object-on-top-of-another.html
 
 
+### Flip Normals
+https://gist.github.com/AdrianaVecc/20ae99182d89848086e95cbb6ed523e2
+
 ### Blur
 - https://www.youtube.com/watch?v=YKTjVACAfqE
