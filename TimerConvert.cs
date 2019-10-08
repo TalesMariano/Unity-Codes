@@ -1,6 +1,7 @@
 //Referencias
 // https://stackoverflow.com/questions/53802200/unity-c-sharp-convert-date-string-to-datetime-object-in-desired-date-time-format
-
+// See later:
+// https://answers.unity.com/questions/45676/making-a-timer-0000-minutes-and-seconds.html
 
 using System.Collections;
 using System.Collections.Generic;
