@@ -52,13 +52,8 @@ public class TM_SceneManager : MonoBehaviour
 
     void Update()
     {
-        if (rRestart)
-        {
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                RestartScene();
-            }
-        }
+        if (rRestart && Input.GetKeyDown(KeyCode.R))
+            RestartScene();
     }
 
     
