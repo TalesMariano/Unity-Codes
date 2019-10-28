@@ -59,4 +59,4 @@
 - https://github.com/Unity-Technologies/2d-extras
 - https://github.com/Unity-Technologies/2d-techdemos
 - https://github.com/Unity-Technologies
-
+- https://unitytech.github.io/unity-recorder/manual/index.html
