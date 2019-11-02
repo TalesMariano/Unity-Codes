@@ -1,5 +1,9 @@
 https://github.com/Unity-Technologies/SkyboxPanoramicShader
 
+## Scene Transition
+https://medium.com/fusedvr/implementing-vr-scene-transitions-c27861a9ac77
+
+
 ## Oculus Go Links
 - https://developer.oculus.com/downloads/package/oculus-adb-drivers/
 - https://developer.oculus.com/documentation/
