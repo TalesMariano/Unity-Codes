@@ -56,6 +56,7 @@
 
 ## Checar Depois
 
+- https://blogs.unity3d.com/2019/07/15/addressable-asset-system/ - Addressables
 - https://github.com/Unity-Technologies/2d-extras
 - https://github.com/Unity-Technologies/2d-techdemos
 - https://github.com/Unity-Technologies
