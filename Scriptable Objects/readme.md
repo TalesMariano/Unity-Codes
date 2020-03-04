@@ -21,8 +21,6 @@ https://scriptable.com/blog/camera-follow-scriptable-objects
 
 
   ## Code
-  {
-
     [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/SpawnManagerScriptableObject", order = 1)]
     public class SpawnManagerScriptableObject : ScriptableObject
     {
@@ -31,5 +29,3 @@ https://scriptable.com/blog/camera-follow-scriptable-objects
         public int numberOfPrefabsToCreate;
         public Vector3[] spawnPoints;
     }
-
-  }
