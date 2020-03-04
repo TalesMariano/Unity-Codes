@@ -18,3 +18,16 @@ https://www.raywenderlich.com/6183-scriptable-objects-tutorial-getting-started
 https://www.gamasutra.com/blogs/VivekTank/20180716/322124/Create_Scriptable_Objects_with_Unity.php
 
 https://scriptable.com/blog/camera-follow-scriptable-objects
+
+
+  ## Code
+  using UnityEngine;
+
+[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/SpawnManagerScriptableObject", order = 1)]
+public class SpawnManagerScriptableObject : ScriptableObject
+{
+    public string prefabName;
+
+    public int numberOfPrefabsToCreate;
+    public Vector3[] spawnPoints;
+}
