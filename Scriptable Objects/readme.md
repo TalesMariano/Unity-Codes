@@ -29,3 +29,4 @@ https://scriptable.com/blog/camera-follow-scriptable-objects
         public int numberOfPrefabsToCreate;
         public Vector3[] spawnPoints;
     }
+https://docs.unity3d.com/Manual/class-ScriptableObject.html
