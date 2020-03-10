@@ -1,11 +1,11 @@
-Text Mesh Pro
+# Text Mesh Pro
 
-## REplace Text with TMPro
+## Replace Text with TMPro
 
-Unity Text to TMPro
-* http://digitalnativestudios.com/forum/index.php?topic=732.0
+### ReplaceTextForTextMeshPro.cs
 
-About ReplaceTextForTextMeshPro.cs
+http://digitalnativestudios.com/forum/index.php?topic=732.0
+
 > hi. the script wasn't working with current Unity & TMPro.. so i updated.. i created also a version to convert just the selected GameObject's Text (and not ALL in scene)
 > i moved the commands under Tools and renamed them by clarity
 > 
@@ -13,9 +13,10 @@ About ReplaceTextForTextMeshPro.cs
 > 
 > please note that you have to manually substitute the original font ("Arial" in my case) and the destination TMPro font ("Fonts/Arial Latin SDF") which should be in Resources/
 
-https://forum.unity.com/threads/replacing-text-with-textmesh-pro.515594/
 
-About TextToTextMeshPro.cs
+### TextToTextMeshPro.cs
+
+https://forum.unity.com/threads/replacing-text-with-textmesh-pro.515594/
 
 > Here is an Editor script that works:
 > 
