@@ -24,9 +24,20 @@ https://scriptable.com/blog/camera-follow-scriptable-objects
     [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/SpawnManagerScriptableObject", order = 1)]
     public class SpawnManagerScriptableObject : ScriptableObject
     {
-        public string prefabName;
-
+        public string prefabName;      
         public int numberOfPrefabsToCreate;
         public Vector3[] spawnPoints;
     }
 https://docs.unity3d.com/Manual/class-ScriptableObject.html
+
+ ### Save and Load
+ 
+    public string SaveJson()
+    {
+        return JsonUtility.ToJson(this);
+    }
+
+    public void LoadJson(string json)
+    {
+        JsonUtility.FromJsonOverwrite(json, this);
+    }
