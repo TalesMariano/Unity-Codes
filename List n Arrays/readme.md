@@ -7,3 +7,11 @@ https://stackoverflow.com/questions/32191695/how-to-sort-class-list-by-integer-p
 https://stackoverflow.com/questions/5344805/linq-orderby-descending-query
 
 https://www.guru99.com/c-sharp-inheritance-polymorphism.html
+
+
+----
+
+## Dictionary
+
+* https://learn.unity.com/tutorial/lists-and-dictionaries
+* https://www.youtube.com/watch?v=GaM6uR6CJMg
