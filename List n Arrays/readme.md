@@ -32,6 +32,16 @@ Usage:
 
 
 ----
+## Questions
+* How to copy items from list to stack without using loop?
+
+You can create a stack from anything that is IEnumerable
+
+        var myStack = new Stack<MyObjectType>(myList);
+        var myStack = new Stack<MyObjectType>(myList.Reverse());
+
+
+---
 
 ## Dictionary
 
