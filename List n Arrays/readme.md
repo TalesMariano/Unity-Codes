@@ -11,6 +11,9 @@ https://www.guru99.com/c-sharp-inheritance-polymorphism.html
 ----
 ## Shuffle
 https://stackoverflow.com/questions/273313/randomize-a-listt
+https://codereview.stackexchange.com/questions/131273/c-card-shuffle
+https://stackoverflow.com/questions/49570175/simple-way-to-randomly-shuffle-list
+(based on Fisher–Yates shuffle algorithm)
 
 private static Random rng = new Random();  
 
@@ -40,6 +43,15 @@ You can create a stack from anything that is IEnumerable
         var myStack = new Stack<MyObjectType>(myList);
         var myStack = new Stack<MyObjectType>(myList.Reverse());
 
+* Conversion of System.Array to List
+
+https://stackoverflow.com/questions/1603170/conversion-of-system-array-to-list
+
+        using System.Linq;
+
+        int[] ints = new [] { 10, 20, 10, 34, 113 };
+
+        List<int> lst = ints.OfType<int>().ToList(); // this isn't going to be fast.
 
 ---
 
