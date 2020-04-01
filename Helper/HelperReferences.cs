@@ -1,3 +1,7 @@
+// References
+// https://medium.com/the-unity-developers-handbook/goodbye-missingreferenceexceptions-hello-automated-validation-in-unity-38bbb2fc7a1a
+// C# em 5 minutos - Reflection - https://www.youtube.com/watch?v=EX_0lf5zyrU
+
 using UnityEngine;
 
 public class HelperReferences : MonoBehaviour
