@@ -30,6 +30,8 @@
 - Lerp?
 - Comments
 
+## C# Stuff
+C# em 5 minutos - Reflection - https://www.youtube.com/watch?v=EX_0lf5zyrU
 
 ## Code to Do
 - Load Level
