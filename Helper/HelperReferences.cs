@@ -11,7 +11,7 @@ public class HelperReferences : MonoBehaviour
     /// only works on public fields
     /// </summary>
     /// <param name="obj"> (this) </param>
-    public static void CheckMissingReferences(object obj)
+    public static void CheckMissingReferences(Object obj)
     {
         var type = obj.GetType();   // Get Obj type
 
@@ -19,7 +19,7 @@ public class HelperReferences : MonoBehaviour
         {
             if (p.GetValue(obj) == null)    // Check if field is null
             {
-                Debug.LogError("Missing Reference: " + p.Name);
+                Debug.LogError("Missing Reference: " + p.Name, obj);
                 return;
             }
         }
