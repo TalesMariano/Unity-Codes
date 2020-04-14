@@ -3,6 +3,13 @@
 https://jsonformatter.curiousconcept.com/
 
 
+----------
+
+https://csvjson.com/csv2json
+
+Converts Excel and google sheets to 
+
+
 ------------
 
   Loading Game Data via JSON
