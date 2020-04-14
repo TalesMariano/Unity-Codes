@@ -7,7 +7,7 @@ https://jsonformatter.curiousconcept.com/
 
 https://csvjson.com/csv2json
 
-Converts Excel and google sheets to 
+Converts Excel and google sheets to Json Files
 
 
 ------------
