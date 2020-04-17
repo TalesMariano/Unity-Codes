@@ -64,3 +64,4 @@ C# em 5 minutos - Reflection - https://www.youtube.com/watch?v=EX_0lf5zyrU
 - https://github.com/Unity-Technologies/2d-techdemos
 - https://github.com/Unity-Technologies
 - https://unitytech.github.io/unity-recorder/manual/index.html
+- https://github.com/pardeike/Harmony/wiki
