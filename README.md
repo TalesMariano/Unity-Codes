@@ -7,6 +7,8 @@
  - https://github.com/RyanNielson/awesome-unity
  - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
  - https://github.com/mob-sakai/UIEffect
+ - Unite Europe 2017 - Squeezing Unity: Tips for raising performance
+ 	- https://www.youtube.com/watch?v=_wxitgdx-UI
 
 ## Git, Versions n Stuff
  - keep a changelog - https://keepachangelog.com/en/1.0.0/
