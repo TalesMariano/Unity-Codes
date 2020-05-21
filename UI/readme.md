@@ -11,3 +11,6 @@ button.onClick.AddListener(Function);
 ## Links
 
 - https://github.com/5argon/UILesson
+
+## Color
+- https://answers.unity.com/questions/1017582/hex-colors-in-unity.html
