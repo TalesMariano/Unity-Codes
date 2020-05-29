@@ -1,0 +1,37 @@
+id,cardName,description,materials,productionDuration,talentReward,,,num mat 1,num mat 2
+1,Posto de sustentabilidade da floresta,"Empreendedores querem desenvolver um programa de extração sustentável com manejo da floresta, plantas medicinais, frutos, artesanatos finos, com inclusão social da população local.","[{resourceName: 4, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,4,4
+2,Fibrato,,"[{resourceName: 4, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,4,4
+3,Fibrato,,"[{resourceName: 4, resourceNumber: 2}, { resourceName: 3, resourceNumber: 2}]",,,,,4,3
+4,Clube de lazer para pessoas maduras,"Com o aumento da longevidade, um grupo de empreendedores está ampliando a Rede de Clubes de Lazer para pessoas que têm tempo, dinheiro, saúde e querem aproveitar o melhor da vida social. ","[{resourceName: 3, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,3,4
+5,Fibrato,,"[{resourceName: 3, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,3,4
+6,Fibrato,,"[{resourceName: 4, resourceNumber: 2}, { resourceName: 3, resourceNumber: 2}]",,,,,4,3
+7,Parque de diversões:,"Empreendedores de Entretenimento vão construir um Parque Temático com infra-estrutura para atrair turistas de todo o mundo, oferecendo lazer, diversão, educação, cultura e gastronomia.","[{resourceName: 3, resourceNumber: 2}, { resourceName: 0, resourceNumber: 2}]",,,,,3,0
+8,Fibrato,,"[{resourceName: 4, resourceNumber: 2}, { resourceName: 3, resourceNumber: 2}]",,,,,4,3
+9,Fibrato,,"[{resourceName: 0, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,0,4
+10,Campus universitário avançado,"Um campus universitário avançado com especialistas conectados globalmente foi projetado para tratar de soluções científicas, técnicas, políticas e financeiras do aquecimento global.","[{resourceName: 3, resourceNumber: 2}, { resourceName: 0, resourceNumber: 2}]",,,,,3,0
+11,Fibrato,,"[{resourceName: 3, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,3,4
+12,Fibrato,,"[{resourceName: 4, resourceNumber: 2}, { resourceName: 0, resourceNumber: 2}]",,,,,4,0
+13,Zoológico,"Um grupo de veterinários mobilizou o poder público para montar um zoológico turísitico e educativo, com a diversidade da fauna de cada região do planeta, mostrando o habitat de cada animal.","[{resourceName: 4, resourceNumber: 2}, { resourceName: 3, resourceNumber: 2}]",,,,,4,3
+14,Rede de Hotéis de Turismo,"Com o crescimento do turismo de negócios e de lazer, a Rede de Hotéis quer se expandir proporcionando hospedagem e serviços de comunicação, office center, programas culturais e turísticos.","[{resourceName: 3, resourceNumber: 2}, { resourceName: 4, resourceNumber: 2}]",,,,,3,4
+15,Plataformas de energia eólica,"Aproveitando as  correntes de vento do oceano, um grupo de empreendedores está criando plataformas marinhas para geração de energia eólica, impactando o desenvolvimento econômico.","[{resourceName: 4, resourceNumber: 2}, { resourceName: 1, resourceNumber: 2}]",,,,,4,1
+16,RazComp,,"[{resourceName: 0, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,0,0
+17,Centro experimental de felicidade,"Um grupo político-filosófico resolveu estimular o aumento da felicidade de toda a população em conforto, bem-estar, saúde, educação, lazer, liberdade religiosa e civil, em democracia.","[{resourceName: 0, resourceNumber: 4}, { resourceName: 3, resourceNumber: 4}]",,,,,0,3
+18,RazComp,,"[{resourceName: 0, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,0,0
+19,Centro de feiras e exposições,"O encontro entre compradores e vendedores de toda a concorrência num só lugar, através de um enorme centro ultra-moderno para feiras e exposições internacionais foi planejado.","[{resourceName: 0, resourceNumber: 4}, { resourceName: 4, resourceNumber: 4}]",,,,,0,4
+20,RazComp,,"[{resourceName: 1, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,1,0
+21,Museu Histórico,"O museu histórico além do papel de preservar as origens para que as gerações futuras possam conhecer o processo de desenvolvimento daquele povo e sua cultura, é também um negócio. ","[{resourceName: 3, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,3,0
+22,RazComp,,"[{resourceName: 0, resourceNumber: 4}, { resourceName: 1, resourceNumber: 4}]",,,,,0,1
+23,Centro de ski na neve,"No mundo do lazer, a tecnologia permite centros de ski na neve, tanto em áreas de montanha quanto de deserto. Empreendedores vão construir mais este atrativo no território, precisando de pessoas para guiar os turistas.","[{resourceName: 3, resourceNumber: 4}, { resourceName: 4, resourceNumber: 4}]",,,,,3,4
+24,RazComp,,"[{resourceName: 0, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,0,0
+25,Fábrica de eletrônicos recicláveis,"Empreendedores montaram um sistema para recolher equipamentos eletrônicos usados em lojas e postos especiais. Após a classificação dos materiais recicláveis, tudo se aproveita.","[{resourceName: 3, resourceNumber: 4}, { resourceName: 1, resourceNumber: 4}]",,,,,3,1
+26,RazComp,,"[{resourceName: 1, resourceNumber: 4}, { resourceName: 3, resourceNumber: 4}]",,,,,1,3
+27,Rede de Academia Fitness,"Como as máquinas substituíram o trabalho físico do ser humano, empreendedores criaram máquinas especiais para exercício físico, monitoradas por apps numa Rede de Academias Fitness.","[{resourceName: 0, resourceNumber: 4}, { resourceName: 3, resourceNumber: 4}]",,,,,0,3
+28,Laboratório da Longevidade Humana,"Com o aumento da longevidade humana, neuro-cientistas querem prolongar a juventude, com sua aparência e vitalidade, modificando a envelhescência. Há demanda global para tais produtos. ","[{resourceName: 3, resourceNumber: 4}, { resourceName: 0, resourceNumber: 4}]",,,,,3,0
+29,Freerail,,"[{resourceName: 1, resourceNumber: 8}, { resourceName: 1, resourceNumber: 8}]",,,,,1,1
+30,Água potável a partir dos oceanos,"Um grupo de empreendedores desenvolveu, a custos competitivos, o processo de dessalinização da água marinha para ser distribuída  como água potável nos países à beira-mar.","[{resourceName: 1, resourceNumber: 8}, { resourceName: 4, resourceNumber: 8}]",,,,,1,4
+31,Freerail,,"[{resourceName: 1, resourceNumber: 8}, { resourceName: 1, resourceNumber: 8}]",,,,,1,1
+32,Freerail,,"[{resourceName: 1, resourceNumber: 8}, { resourceName: 1, resourceNumber: 8}]",,,,,1,1
+33,Aeroportos Internacionais,"As viagens a turismo e a negócios não param de crescer. As importações e exportações precisam de aeroportos modernos, rápidos e seguros. O negócio é modernizar aeroportos internacionais.","[{resourceName: 1, resourceNumber: 8}, { resourceName: 3, resourceNumber: 8}]",,,,,1,3
+34,Freerail,,"[{resourceName: 1, resourceNumber: 8}, { resourceName: 1, resourceNumber: 8}]",,,,,1,1
+35,Clínica de Medicina Preventiva,"Médicos e outros profissionais da saúde se uniram para criar uma clínica de medicina preventiva, integrando o físico, emocional, mental e o espiritual do ser humano. ","[{resourceName: 1, resourceNumber: 8}, { resourceName: 0, resourceNumber: 8}]",,,,,1,0
+36,Estações orbitais,"Com o crescimento da população mundial, um grupo de cientistas, empreendedores, físicos e engenheiros vai criar um Centro de Tecnologia Espacial para estações orbitais e ônibus espaciais. ","[{resourceName: 1, resourceNumber: 8}, { resourceName: 1, resourceNumber: 8}]",,,,,1,1
