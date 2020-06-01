@@ -11,4 +11,5 @@ https://docs.unity3d.com/ScriptReference/Editor.RenderStaticPreview.html
 
 ????
 - https://docs.unity3d.com/ScriptReference/AssetPreview.html
+- https://forum.unity.com/threads/custom-asset-icons.118656/
 
