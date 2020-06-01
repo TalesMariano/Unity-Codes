@@ -6,3 +6,9 @@ https://www.youtube.com/watch?v=74Ph6y0rR-g    - 48 min
 
 https://docs.unity3d.com/ScriptReference/Editor.RenderStaticPreview.html
 
+
+
+
+????
+- https://docs.unity3d.com/ScriptReference/AssetPreview.html
+
