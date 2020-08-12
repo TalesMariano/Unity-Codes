@@ -9,6 +9,7 @@
  - https://github.com/mob-sakai/UIEffect
  - Unite Europe 2017 - Squeezing Unity: Tips for raising performance
  	- https://www.youtube.com/watch?v=_wxitgdx-UI
+- Update/Patch for games [PATCH - Updating System](https://assetstore.unity.com/packages/tools/utilities/patch-updating-system-indie-41417)
 
 ## Git, Versions n Stuff
  - keep a changelog - https://keepachangelog.com/en/1.0.0/
