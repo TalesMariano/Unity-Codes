@@ -16,4 +16,4 @@ button.onClick.AddListener(Function);
 - https://answers.unity.com/questions/1017582/hex-colors-in-unity.html
 
 ## AdobeXD
-- [XdUnityUI - AdobeXD to Unity UI - GitHub](https://github.com/itouh2-i0plus/XdUnityUI/tree/develop)
+- [XdUnityUI - AdobeXD to Unity UI](https://github.com/itouh2-i0plus/XdUnityUI/tree/develop) - GitHub
