@@ -9,6 +9,8 @@
 
 ## Links
 * [Why You NEED To Be Using Source Control For Unity](https://www.youtube.com/watch?v=Is1rHR2wzpU)
+* [GIT: Merging and Workflow](https://www.youtube.com/watch?v=0iuqXh0oojo)
+* [1.2: Ramificações - Git e GitHub para Poetas](https://www.youtube.com/watch?v=oPpnCh7InLY)
 
 ## ???
 * Perforce 
