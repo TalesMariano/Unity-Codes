@@ -10,10 +10,13 @@ https://www.guru99.com/c-sharp-inheritance-polymorphism.html
 
 ----
 ## Shuffle
-https://stackoverflow.com/questions/273313/randomize-a-listt
-https://codereview.stackexchange.com/questions/131273/c-card-shuffle
-https://stackoverflow.com/questions/49570175/simple-way-to-randomly-shuffle-list
+* https://stackoverflow.com/questions/273313/randomize-a-listt
+* https://codereview.stackexchange.com/questions/131273/c-card-shuffle
+* https://stackoverflow.com/questions/49570175/simple-way-to-randomly-shuffle-list
 (based on Fisher–Yates shuffle algorithm)
+* https://stackoverflow.com/questions/273313/randomize-a-listt
+* https://forum.unity.com/threads/randomize-array-in-c.86871/
+* https://stackoverflow.com/questions/108819/best-way-to-randomize-an-array-with-net
 
 private static Random rng = new Random();  
 
