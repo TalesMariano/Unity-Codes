@@ -36,6 +36,9 @@ Usage:
         List<Product> products = GetProducts();
         products.Shuffle();
 
+----
+## Linq
+* [Sort an int array with orderby](https://stackoverflow.com/questions/12404735/sort-an-int-array-with-orderby)
 
 ----
 ## Questions
